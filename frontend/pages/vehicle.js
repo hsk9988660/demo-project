@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Container } from '@mui/material';
-import VehicleForm from '@/components/vehicle/vehicleForm';
+import VehicleForm from '../components/vehicle/vehicleForm';
 
 const Vehicle = () => {
 

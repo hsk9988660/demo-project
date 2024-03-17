@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import LoginForm from '@/components/login/loginForm';
+import LoginForm from '../components/login/loginForm';
 import { Box } from '@mui/material';
 
 const LoginPage = () => {
